@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🎓 Computer Science student with a strong foundation in software development, data analytics, machine learning, and AI<br>🤖 Experienced in building end-to-end deep learning solutions, from data preprocessing to model deployment<br>📊 Skilled in working with data-driven approaches to solve real-world problems efficiently<br>⚙️ Hands-on experience with model optimization, evaluation , and performance tuning<br>🧠 Familiar with multiple architectures like ResNet, EfficientNet, and AlexNet<br>🌐 Built scalable web applications and real-time systems, including IoT-based solutions<br>🔗 Strong understanding of backend systems, APIs, and database integration<br>💻 Proficient in Python, Java, SQL, and frameworks like PyTorch, TensorFlow, Scikit-learn<br>🚀 Passionate about building intelligent, scalable, and impactful tech solutions
 
 
